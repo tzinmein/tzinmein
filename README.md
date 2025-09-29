@@ -16,7 +16,7 @@ Skills: C# | .NET | Vue.js | SPAs | Team Leadership | Solution Architecture
 
 ## 🚀 Featured Projects
 
-- [Structure.Sketching](https://github.com/tzinmein/Structure.Sketching): 🖼️ Pure .NET image processing library for creative, scalable applications.
+- [ChromaFX](https://github.com/chromafx/chromafx): 🖼️ Pure .NET image processing library for creative, scalable applications.
 - [WhereFromBegone](https://github.com/tzinmein/wherefrombegone): 🧹 macOS utility to remove “Where From” metadata from downloads, enhancing privacy and cleanliness.
 
 ---
