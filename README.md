@@ -16,8 +16,11 @@ Skills: C# | .NET | Vue.js | SPAs | Team Leadership | Solution Architecture
 
 ## 🚀 Featured Projects
 
-- [ChromaFX](https://github.com/chromafx/chromafx): 🖼️ Pure .NET image processing library for creative, scalable applications.
-- [WhereFromBegone](https://github.com/tzinmein/wherefrombegone): 🧹 macOS utility to remove “Where From” metadata from downloads, enhancing privacy and cleanliness.
+- [ChromaFX](https://github.com/chromafx/chromafx): 🖼️ **High-performance .NET image processing library** for creative applications. Offers pipelines, effects, and primitives to build scalable, custom graphics solutions effortlessly.
+
+- [WhereFromBegone](https://github.com/tzinmein/wherefrombegone): 🧹 **Privacy-focused macOS utility** that strips “Where From” metadata from downloads, keeping your files clean and your data private.
+
+- [XbrzSharp](https://github.com/tzinmein/xbrz-sharp): 🔳 **Pixel-art upscaler for .NET**, porting the xBRZ algorithm. Perfect for game developers and graphics enthusiasts who want crisp, high-quality visuals without losing style.
 
 ---
 
