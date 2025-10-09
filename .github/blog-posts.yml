@@ -1,0 +1,14 @@
+name: Update Blog Posts
+
+on:
+  schedule:
+    - cron: "0 0 * * 1" # Runs weekly (every Monday at 00:00 UTC)
+  workflow_dispatch: # Allows manual trigger
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://tzin.net/rss"
