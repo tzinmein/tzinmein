@@ -29,6 +29,8 @@ Skills: C# | .NET | Vue.js | SPAs | Team Leadership | Solution Architecture
 - [AI as Your Pair Programmer: Sometimes Junior, Sometimes Peer, Sometimes Mentor](https://tzin.net/2025/10/ai-as-your-pair-programmer-sometimes-junior-sometimes-peer-sometimes-mentor/)
 - [Historical Timezones and Computing](https://tzin.net/2024/01/historical-timezones-and-computing/)
 - [Npgsql 8.0, Entity Framework Core and JSON POCOs](https://tzin.net/2024/01/npgsql-8-0-entity-framework-core-and-json-pocos/)
+- [Using DevilBox for WordPress Development on WSL2 on Windows](https://tzin.net/2023/07/using-devilbox-for-wordpress-development-on-wsl2-on-windows/)
+- [LibreELEC 10, Raspberry Pi and Crashing](https://tzin.net/2023/02/libreelec-10-raspberry-pi-and-crashing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
