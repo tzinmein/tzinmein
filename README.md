@@ -24,6 +24,15 @@ Skills: C# | .NET | Vue.js | SPAs | Team Leadership | Solution Architecture
 
 ---
 
+### 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [AI as Your Pair Programmer: Sometimes Junior, Sometimes Peer, Sometimes Mentor](https://tzin.net/2025/10/ai-as-your-pair-programmer-sometimes-junior-sometimes-peer-sometimes-mentor/)
+- [Historical Timezones and Computing](https://tzin.net/2024/01/historical-timezones-and-computing/)
+- [Npgsql 8.0, Entity Framework Core and JSON POCOs](https://tzin.net/2024/01/npgsql-8-0-entity-framework-core-and-json-pocos/)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 ## 🎵 Interests
 
 - Music lover and explorer of new genres
