@@ -2,25 +2,25 @@
 
 🌱 Exploring the intersection of technology, leadership, and lifelong learning.
 
-I'm a **technology leader** passionate about building empowered, high-performing developer teams and crafting scalable, creative solutions. I thrive on turning ideas into reality, guiding engineers, and evolving architectures that grow with their organizations.
+I'm a **technology leader** who enjoys guiding high-performing developer teams, crafting scalable solutions, and staying hands-on with code. This profile highlights projects, experiments, and ideas I've worked on over the years — both for learning and for sharing with the community.
 
 ---
 
 ## 🛠️ Core Skills
 
 ```csharp
-Skills: C# | .NET | Vue.js | SPAs | Team Leadership | Solution Architecture
+C# | .NET | Vue.js | SPAs | Team Leadership | Solution Architecture
 ```
 
 ---
 
 ## 🚀 Featured Projects
 
-- [ChromaFX](https://github.com/chromafx/chromafx): 🖼️ **High-performance .NET image processing library** for creative applications. Offers pipelines, effects, and primitives to build scalable, custom graphics solutions effortlessly.
+- [ChromaFX](https://github.com/chromafx/chromafx): 🖼️ **Fully managed .NET image processing library** for creative applications. Offers pipelines, effects, and primitives to build scalable, custom graphics solutions effortlessly.
 
-- [WhereFromBegone](https://github.com/tzinmein/wherefrombegone): 🧹 **Privacy-focused macOS utility** that strips “Where From” metadata from downloads, keeping your files clean and your data private.
+- [WhereFromBegone](https://github.com/tzinmein/wherefrombegone): 🧹 **Privacy-focused macOS utility** that strips "Where From" metadata from downloads, keeping your files clean and your data private.
 
-- [XbrzSharp](https://github.com/tzinmein/xbrz-sharp): 🔳 **Pixel-art upscaler for .NET**, porting the xBRZ algorithm. Perfect for game developers and graphics enthusiasts who want crisp, high-quality visuals without losing style.
+- [XbrzSharp](https://github.com/tzinmein/xbrz-sharp): 🔳 **Pixel-art upscaler for .NET**, porting the xBRZ algorithm. Great for game developers and graphics enthusiasts who want crisp, high-quality visuals without losing style.
 
 ---
 
@@ -37,8 +37,8 @@ Skills: C# | .NET | Vue.js | SPAs | Team Leadership | Solution Architecture
 
 ## 🎵 Interests
 
-- Music lover and explorer of new genres
-- Driven by curiosity and the pursuit of knowledge for its own sake
+- Curious across disciplines - from technology to science, the humanities, and beyond - driven by learning for its own sake
+- Music lover and explorer of new genres, often finding inspiration for coding and design in unexpected places
 
 ---
 
@@ -50,6 +50,6 @@ Skills: C# | .NET | Vue.js | SPAs | Team Leadership | Solution Architecture
 
 ---
 
-💬 Let’s connect if you want to talk tech, leadership, or music!
+💬 Let’s connect if you want to talk tech, leadership, music, or cross-disciplinary ideas!
 
 > "Building teams, designing solutions, learning always."
