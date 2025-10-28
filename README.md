@@ -2,7 +2,11 @@
 
 🌱 Exploring the intersection of technology, leadership, and lifelong learning.
 
-I'm a **technology leader** who enjoys guiding high-performing developer teams, crafting scalable solutions, and staying hands-on with code. This profile highlights projects, experiments, and ideas I've worked on over the years — both for learning and for sharing with the community.
+I'm a **technology leader** who enjoys guiding high-performing developer teams, crafting scalable solutions, and staying hands-on with code — now exploring how agentic AI can partner in coding and design decisions.  
+
+*(Yes, even the emojis had some AI input.)*  
+
+This profile highlights projects, experiments, and ideas I've worked on over the years — both for learning and for sharing with the community.
 
 ---
 
