@@ -30,11 +30,11 @@ C# | .NET | Vue.js | SPAs | Team Leadership | Solution Architecture
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [When AI Becomes Your Advocate](https://tzin.net/2025/11/when-ai-becomes-your-advocate/)
+- [Surely It’s Been Indexed Already… Right?](https://tzin.net/2025/10/surely-its-been-indexed-already-right/)
 - [Working with AI: A Human-Centered Approach to Code Collaboration](https://tzin.net/2025/10/working-with-ai-a-human-centered-approach-to-code-collaboration/)
 - [AI as Your Pair Programmer: Sometimes Junior, Sometimes Peer, Sometimes Mentor](https://tzin.net/2025/10/ai-as-your-pair-programmer-sometimes-junior-sometimes-peer-sometimes-mentor/)
 - [Historical Timezones and Computing](https://tzin.net/2024/01/historical-timezones-and-computing/)
-- [Npgsql 8.0, Entity Framework Core and JSON POCOs](https://tzin.net/2024/01/npgsql-8-0-entity-framework-core-and-json-pocos/)
-- [Using DevilBox for WordPress Development on WSL2 on Windows](https://tzin.net/2023/07/using-devilbox-for-wordpress-development-on-wsl2-on-windows/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
