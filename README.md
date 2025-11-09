@@ -2,9 +2,9 @@
 
 🌱 Exploring the intersection of technology, leadership, and lifelong learning.
 
-I'm a **technology leader** who enjoys guiding high-performing developer teams, crafting scalable solutions, and staying hands-on with code — now exploring how agentic AI can partner in coding and design decisions.  
+I'm a **technology leader** who enjoys guiding high-performing developer teams, crafting scalable solutions, and staying hands-on with code — now exploring how agentic AI can partner in coding and design decisions.
 
-*(Yes, AI even helped with the emojis 😅)*  
+_(Yes, AI even helped with the emojis 😅)_
 
 This profile highlights projects, experiments, and ideas I've worked on over the years — for learning, sharing and sometimes just for fun.
 
@@ -26,10 +26,14 @@ C# | .NET | Vue.js | SPAs | Team Leadership | Solution Architecture
 
 - [XbrzSharp](https://github.com/tzinmein/xbrz-sharp): 🔳 **Pixel-art upscaler for .NET**, porting the xBRZ algorithm. Great for game developers and graphics enthusiasts who want crisp, high-quality visuals without losing style.
 
+- [RotSpriteSharp](https://github.com/tzinmein/rotsprite-sharp): 🌀 **.NET port of rotsprite**. Fast, high-quality sprite rotation and scaling for pixel art.
+
 ---
 
 ### 📝 Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
+
 - [When AI Becomes Your Advocate](https://tzin.net/2025/11/when-ai-becomes-your-advocate/)
 - [Surely It’s Been Indexed Already… Right?](https://tzin.net/2025/10/surely-its-been-indexed-already-right/)
 - [Working with AI: A Human-Centered Approach to Code Collaboration](https://tzin.net/2025/10/working-with-ai-a-human-centered-approach-to-code-collaboration/)
