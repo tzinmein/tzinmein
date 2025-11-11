@@ -28,11 +28,14 @@ C# | .NET | Vue.js | SPAs | Team Leadership | Solution Architecture
 
 - [RotSpriteSharp](https://github.com/tzinmein/rotsprite-sharp): 🌀 **.NET port of rotsprite**. Fast, high-quality sprite rotation and scaling for pixel art.
 
+- [EchoSpec](https://github.com/tzinmein/EchoSpec): 📊 **Flexible, generic reporting library for .NET** that generates beautiful test reports in multiple output formats from a single source of data.
+
 ---
 
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [When AI Becomes Your Advocate](https://tzin.net/2025/11/when-ai-becomes-your-advocate/)
 - [Surely It’s Been Indexed Already… Right?](https://tzin.net/2025/10/surely-its-been-indexed-already-right/)
 - [Working with AI: A Human-Centered Approach to Code Collaboration](https://tzin.net/2025/10/working-with-ai-a-human-centered-approach-to-code-collaboration/)
