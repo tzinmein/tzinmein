@@ -20,15 +20,25 @@ C# | .NET | Vue.js | SPAs | Team Leadership | Solution Architecture
 
 ## 🚀 Featured Projects
 
-- [ChromaFX](https://github.com/chromafx/chromafx): 🖼️ **Fully managed .NET image processing library** for creative applications. Offers pipelines, effects, and primitives to build scalable, custom graphics solutions effortlessly.
+- [ChromaFX](https://github.com/chromafx/chromafx):      
+    **Fully managed .NET image processing library** for creative applications.  
+    Offers pipelines, effects, and primitives to build scalable, custom graphics solutions effortlessly 🖼️
 
-- [WhereFromBegone](https://github.com/tzinmein/wherefrombegone): 🧹 **Privacy-focused macOS utility** that strips "Where From" metadata from downloads, keeping your files clean and your data private.
+- [WhereFromBegone](https://github.com/tzinmein/wherefrombegone):      
+    **Privacy-focused macOS utility** that strips "Where From" metadata from downloads,  
+    keeping your files clean and your data private 🧹
 
-- [XbrzSharp](https://github.com/tzinmein/xbrz-sharp): 🔳 **Pixel-art upscaler for .NET**, porting the xBRZ algorithm. Great for game developers and graphics enthusiasts who want crisp, high-quality visuals without losing style.
+- [XbrzSharp](https://github.com/tzinmein/xbrz-sharp):      
+    **Pixel-art upscaler for .NET**, porting the xBRZ algorithm.  
+    Great for game developers and graphics enthusiasts who want crisp, high-quality visuals without losing style 🔳
 
-- [RotSpriteSharp](https://github.com/tzinmein/rotsprite-sharp): 🌀 **.NET port of rotsprite**. Fast, high-quality sprite rotation and scaling for pixel art.
+- [RotSpriteSharp](https://github.com/tzinmein/rotsprite-sharp):      
+    **.NET port of rotsprite**.  
+    Fast, high-quality sprite rotation and scaling for pixel art 🌀
 
-- [EchoSpec](https://github.com/tzinmein/EchoSpec): 📊 **Flexible, generic reporting library for .NET** that generates beautiful test reports in multiple output formats from a single source of data.
+- [EchoSpec](https://github.com/tzinmein/EchoSpec):      
+    **Flexible, generic reporting library for .NET** that generates beautiful test reports  
+    in multiple output formats from a single source of data 📊
 
 ---
 
