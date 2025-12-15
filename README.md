@@ -45,11 +45,11 @@ C# | .NET | Vue.js | SPAs | Team Leadership | Solution Architecture
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Echoes and Apprenticeship: What Machines Reflect Back](https://tzin.net/2025/12/echoes-and-apprenticeship-what-machines-reflect-back/)
 - [When AI Becomes Your Advocate](https://tzin.net/2025/11/when-ai-becomes-your-advocate/)
 - [Surely It’s Been Indexed Already… Right?](https://tzin.net/2025/10/surely-its-been-indexed-already-right/)
 - [Working with AI: A Human-Centered Approach to Code Collaboration](https://tzin.net/2025/10/working-with-ai-a-human-centered-approach-to-code-collaboration/)
 - [AI as Your Pair Programmer: Sometimes Junior, Sometimes Peer, Sometimes Mentor](https://tzin.net/2025/10/ai-as-your-pair-programmer-sometimes-junior-sometimes-peer-sometimes-mentor/)
-- [Historical Timezones and Computing](https://tzin.net/2024/01/historical-timezones-and-computing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
